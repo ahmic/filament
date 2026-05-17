@@ -11,7 +11,7 @@ return [
         'actions' => [
 
             'cancel' => [
-                'label' => 'Prekiniti',
+                'label' => 'Otkaži',
             ],
 
             'create' => [
