@@ -11,11 +11,11 @@ return [
         'actions' => [
 
             'cancel' => [
-                'label' => 'Prekinit',
+                'label' => 'Otkaži',
             ],
 
             'save' => [
-                'label' => 'Saćuvaj',
+                'label' => 'Sačuvaj',
             ],
 
         ],
